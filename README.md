@@ -1,4 +1,4 @@
-- ✓# prediction_AG
+# prediction_AG
 Prediction examples using AlphaGenome
 
 # To run the prediction with AlphaGenome with intervals:
