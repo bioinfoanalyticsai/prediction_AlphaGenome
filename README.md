@@ -1,4 +1,4 @@
-- ✓# prediction_AG
+# prediction_AG
 Prediction examples using AlphaGenome
 
 # To run the prediction with AlphaGenome with intervals:
@@ -179,9 +179,9 @@ python scripts/alphagenome_predict_sequence.py \
   --save-npy
 ```
 
-#For more information on analysis interpretation please look into:
-#DNA_SEQUENCE_GUIDE.md
-#README_alphagenome_interval.md
+### For more information on analysis interpretation please look into:
+DNA_SEQUENCE_GUIDE.md
+README_alphagenome_interval.md
 
-#To make the plots from NPY file:
-#use VIEW_NPY_QUICK_START.md
+### To make the plots from NPY file:
+use VIEW_NPY_QUICK_START.md
